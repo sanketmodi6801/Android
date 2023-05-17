@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">my App 3</string>
+    <string name="submit">\"onClick:the button is pressed..! \"</string>
+</resources>
